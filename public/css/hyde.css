@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -56,8 +56,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #64518A;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -79,7 +78,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 3.25rem;
 }
 
@@ -148,6 +147,7 @@ footer.footer {
   position: relative;
   padding: 10px;
   display: inline-block;
+  width: 100%;
 
 }
 
@@ -263,4 +263,13 @@ footer.footer {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Looker */
+.theme-base-0f .sidebar {
+  background-color: #64518A;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #7F7977;
 }
