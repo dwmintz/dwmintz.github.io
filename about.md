@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About Daniel
+title: About Me
 ---
-
-I'm just your average political science major turned electronic music composer turned data guy. 
 
 I'm currently the Chief Data Evangelist for [Looker](http://www.looker.com). I love thinking about how data can shed light on hard problems, how to use data well, and how to teach analytics. I believe that everyone should be empowered to explore and analyze data, and that Looker makes that possible like nothing before.
 
