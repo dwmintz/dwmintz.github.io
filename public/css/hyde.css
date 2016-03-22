@@ -142,8 +142,14 @@ a.sidebar-nav-item:focus {
 }
 
 
-.footer {
+footer.footer {
   float: left;
+  max-width: 720px;
+  text-align: center;
+  position: relative;
+  padding: 10px;
+  display: inline-block;
+
 }
 
 /*
