@@ -16,6 +16,8 @@ Unique visitors are fine but reward breadth over depth of user experience. Share
 
 So we decided we needed a new approach. If we’re trying to maximize attention for meaningful content, let’s actually solve for that.
 
+<!--more-->
+
 Introducing *attention minutes*, Upworthy’s new primary metric, which we’re planning to track in two forms:
 
 * *Total Attention on Site* (per hour, day, week, month, whatever) — that tells us (like total uniques or total pageviews) how good of a job Upworthy is doing overall at drawing attention to important topics.
@@ -32,7 +34,7 @@ We built attention minutes to look at a wide range of signals — everything fro
 
 In the charts below, we show what attention data for three popular posts looks like from the last couple of months. As you can see, attention follows very different patterns for different posts. The first one looks great if you only look at pageviews. (1 million pageviews! Woohoo!) But when you look more closely, it’s not driving much attention per pageview. The second post had far fewer pageviews but more total attention minutes. And the last post had about the same pageviews as the first but vastly more total attention minutes.
 
-![Pageviews vs. Attention Minutes]({{ site.url }}/images/attmin_examps)
+![Pageviews vs. Attention Minutes]({{ site.url }}/images/attmin_examps.png)
 
 Being able to make charts like this helps us get past the focus on pageviews to see what’s really grabbing our visitors. They allow us to focus not just on how many people landed on a page but how many people watched a substantial portion. That’s how we define our biggest successes.
 
