@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Daniel Mintz's Blog
-tagline:          'Arbitrary Musings from Daniel'
+title:            A Little Empty Attic
+tagline:          'Arbitrary Musings from Daniel Mintz'
 description:      'A blog to collect the internet musings of Daniel Mintz'
 url:              http://danielmintz.com
 baseurl:          /
