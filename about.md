@@ -1,30 +1,22 @@
 ---
 layout: page
-title: About
+title: About Daniel
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm just your average political science major turned electronic music composer turned data guy. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm currently the Chief Data Evangelist for [Looker](http://www.looker.com). I love thinking about how data can shed light on hard problems, how to use data well, and how to teach analytics. I believe that everyone should be empowered to explore and analyze data, and that Looker makes that possible like nothing before.
 
-There are currently two themes built on Poole:
+Before Looker, I was Head of Data and Analytics at [Upworthy](http://www.upworthy.com), using data to grow Upworthy's audience and get people to pay attention to the stories that really matter.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I worked at [MoveOn.org](http://www.moveon.org) from 2005 to 2012, holding positions in all areas of MoveOn's work and learning a ton about   analytics and optimization, online organizing, fundraising, and economic messaging.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Some other facts about me:
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* I speak frequently, on panels at eMetrics, the Big Data Innovation Summit, Rootscamp, and Yale Law School and am a frequent trainer in statistics and analytics.
+* I've appeared in all kinds of media,  from NPR's All Things Considered to MSNBC's The Last Word to The New York Times and The Washington Post.
+* I received my bachelor's degree in Music and Political Science from Rutgers University and my master's degree in Multimedia Engineering from UC Santa Barbara's Media Arts and Technology program. 
+* I live in Brooklyn with my wife, daughter, and a giant white dog.
+* I'm an avid photographer and bread baker (or at least, I used to be and my wife would love for me to resume the hobby).
 
 Thanks for reading!
