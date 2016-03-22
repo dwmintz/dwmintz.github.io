@@ -142,6 +142,10 @@ a.sidebar-nav-item:focus {
 }
 
 
+.footer {
+  float: left;
+}
+
 /*
  * Reverse layout
  *
