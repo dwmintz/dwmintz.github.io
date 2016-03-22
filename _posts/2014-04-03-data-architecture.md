@@ -18,6 +18,8 @@ Oh, and it couldn't cost a fortune. And since we were starting with only one ful
 
 We figured we wouldn't meet all of these criteria, but they set a good goal to shoot for.
 
+<!--more-->
+
 As a first step, we wanted Upworthy's staff to be able to answer ad-hoc questions about our basic object data. But when we initially built and launched Upworthy.com in March 2012, we'd decided to back it with a Mongo database. MongoDB is resolutely non-relational — meaning that it doesn't allow JOINs across collections (Mongo's version of tables).
 
 So even a relatively simple question like "How many posts about gender diversity did our freelancers curate in April?" isn't easily answerable, because it would require joining post data with topic data with curator data. The flexibility that MongoDB gave us in evolving our content management system was great, but for those of us on the analytics side trying to respond to data-hungry colleagues, it quickly became a hindrance.

@@ -27,3 +27,6 @@ footer-links:
   twitter: danielmintz
   facebook: danielwmintz
   linkedin: danielmintz
+
+# Excerpt Settings
+excerpt_separator: <!--more-->
