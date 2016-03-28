@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          3.0
 
 # Includes an icon in the footer for each user name you enter
 footer-links:
@@ -30,3 +30,5 @@ footer-links:
 
 # Excerpt Settings
 excerpt_separator: <!--more-->
+
+gems: [jekyll-paginate]
